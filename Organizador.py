@@ -7,6 +7,7 @@ class Organizador():
         self.pasta_origem = pasta_origem
         self.pastas = pastas
 
+    
     def mover_arquivos(self, origem, destino):
         """
         Move um arquivo da origem para o destino.
